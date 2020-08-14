@@ -5,3 +5,13 @@ h1 {
 th, td {
   padding: 15px;
 }
+body {
+  background-image: url(spacebackground.jpg)
+}
+
+.main-section {
+  background: rgba(255, 255, 255, 0.9);
+  padding: 32px 32px 32px;
+  max-width: 1000px;
+  margin: auto;
+}
