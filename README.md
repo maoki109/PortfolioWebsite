@@ -1,3 +1,6 @@
+# Update and Current Status
+An update attempt was made in August 2023 but the changes are not reflected in the actual site. For some reason my npm is broken and my site will not update or build. The site contains information as of early 2023.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
